@@ -4,7 +4,7 @@ Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: bash, cy+cpu.arm64
 Version: 1.0
 Architecture: iphoneos-arm
-Description: Blocks the Apple OCSP servers to block the certificates from getting revoked.
+Description: Blocks the Apple OCSP servers to prevent the certificates from getting revoked.
 Maintainer: Pwn20wnd <pwn20wndstuff@gmail.com>
 Author: Pwn20wnd <pwn20wndstuff@gmail.com>
 Section: System
